@@ -1,0 +1,36 @@
+p{text-align: center;
+}
+h1{text-align: center;
+    margin: auto;
+    padding:
+}
+h2{text-align: center;}
+
+#heading{
+    font-size: 35;
+color:blue;}
+
+.pics{border-color:#FF4500;
+border-width: medium;
+}
+
+.bm{font-weight: bold;
+}
+
+img{
+    padding: 2cm;
+border:2px;
+border-color:#FF4500 }
+
+h2{
+    font-family:verdana;
+    color:#FF4500;
+    text-decoration: underline;
+    text-transform: uppercase;
+
+}
+
+
+p>h2{
+    color:blue;
+}
